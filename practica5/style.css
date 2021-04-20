@@ -1,0 +1,56 @@
+*{
+	margin: 0;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+#tarjetita
+{
+	background-color: #D0D1D3;
+	width: 600px;
+	height: 800px;
+	display: block;
+	margin: auto;
+	margin-top: 65px; 
+	text-align: center;
+}
+
+#imagen
+{
+	width: 440px;
+	display: block;
+	margin: auto;
+	margin-top: 90px;
+}
+
+#titulo
+{
+	font-weight: 200;
+	font-size: 28px;
+	padding-top: 60px;
+}
+
+#parrafo
+{
+	text-align: left;
+	width: 530px;
+	display: block;
+	margin: auto;
+	font-size: 21.5px;
+	padding-top: 30px; 
+	line-height: 27px;
+}
+
+#boton
+{
+	background-color: #EA1A27;
+	font-size: 24px;
+	color: white;
+	font-weight: bold;
+	border-radius: 8px;
+	width: fit-content;
+	padding: 15px 30px;
+	display: block;
+	margin: auto;
+	margin-top: 50px;
+}
